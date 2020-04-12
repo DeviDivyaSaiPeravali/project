@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="45.719631">
+    <testcase classname="Title of your feature" name="Login to Swag labs with invalid credentials" time="45.719631">
+        <system-out>
+            <![CDATA[Given user launched the chrome browser......................................passed
+When user opens swaglabs homepage...........................................passed
+When user enters invalid  username and password.............................passed
+When the user clicks the login button.......................................passed
+Then Assert if the error message is displayed...............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,2 @@
+2020-04-12 14:01:13.096 DEBUG [main] [com.saucestepdef.Sauceloginn] [launching_the_browser] [com.saucestepdef.Saucenav.launching_the_browser(Saucenav.java:26)] - message
+2020-04-12 14:01:58.405 ERROR [main] [com.saucestepdef.Sauceloginn] [assert_if_the_page_is_navigating_to_saucelabs] [com.saucestepdef.Saucenav.assert_if_the_page_is_navigating_to_saucelabs(Saucenav.java:65)] - message
